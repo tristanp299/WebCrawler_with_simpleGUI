@@ -1,7 +1,6 @@
 # Name: Tristan Pereira
 # Github UN: tristanp299
 # Date: 10/20/2022
-# Description:
 
 import PySimpleGUI as sg
 from PIL import Image, ImageTk
